@@ -1,5 +1,10 @@
 <footer>
-MUDr. Pavel Lukša s.r.o.<br>
-IČ: 29319871<br>
-593 01 Bystřice nad Pernštejnem, Starý Dvůr 1734
+    <div class="containerFooter">
+<div>email: email@email.com<br>
+IČ: 34955913023<br>
+tel: 666 666 666</div>
+
+<a href="facebook.com"> <img src="pic/facebook.png" class="picCenter" alt="" width="100px" style="padding: 0px;"></a>
+
+    </div>
     </footer>
