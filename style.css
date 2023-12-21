@@ -35,6 +35,18 @@ hr {
     text-align: center;
 
 }
+.containerFooter
+{
+    display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 70px;
+    max-width: 960px;
+    min-width: 200px;
+    color: white;
+    margin: auto;
+    text-align: left;
+
+}
 .containerWhite
 {
     display: grid;
@@ -60,6 +72,7 @@ hr {
     margin: 30px;
 }
 #picLogo:hover{
+    transition: all 0.5s ease-out;
 transform: scale(1.5);
 }
 
@@ -120,6 +133,7 @@ nav ul li a
     border-width: 0.1px;
     border-color:#b4b4b4;
 }
+
 nav ul li a:hover
 {
     transform: scale(1.5);
@@ -128,6 +142,12 @@ nav ul li a:hover
 nav ul li:hover
 {
     transform: scale(1.2);
+}
+.ZvPc:hover
+{
+    transition: all 0.5s ease-out;
+    transform: scale(1.1);
+
 }
 nav a
 {
@@ -197,12 +217,17 @@ color: red;
     padding: 0px;
     font-size: 3em;
 } 
+#baner:hover
+{
+    transition: all 0.5s ease-out;
+    transform: scale(1.5);
+}
 
 
 footer
 {
     margin-top: 100px;
-    text-align: center;
+    text-align: left;
     height: 120px;
     padding: 10px 0;
     background: #1f1c2b;
