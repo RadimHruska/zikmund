@@ -1,6 +1,3 @@
-<?php     
-require_once("Db.php");
-Db::connect("localhost","luksa","root","root");?>
 <!DOCTYPE html>
 <html lang="cs-cz">
 <head>
@@ -13,35 +10,14 @@ Db::connect("localhost","luksa","root","root");?>
 </head>
 <body>
 <?php include("nav.php"); ?>
-    <div id="container">
-        
+
+
+    <img src="pic/taborak.png" alt="">
+    <div id="container">   
 <div id="obsah"> 
-      
-<?php  
-$cout = 0;
-$posts=Db::queryAll("SELECT * FROM posts;");
-
- foreach($posts as $post)
- {
-  echo  "<article class='aktualita'>";
-  echo  "<section>";
-  echo  "<h2>".$post['header']."</h2>";
-  echo  "<h2>".$post['postText']."</h2>";
-  echo  "</section>";
-  echo  "</article>";
-  $count +=1;
-}
-if($count == 0)
-{
-    echo  "<article class='aktualita'>";
-    echo  "<section>";
-    echo  " <h2>Žádné aktuality.</h2>";
-    echo  "</section>";
-    echo  "</article>";
-}
-   ?> 
 
 
+ewreree
 </div>
 
     </div>

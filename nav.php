@@ -1,14 +1,16 @@
+<link href='https://fonts.googleapis.com/css?family=Roboto Condensed' rel='stylesheet'>
 <div id="container2">
-<div id="baner"></div>
+<a href="index.php" id="picLogo"> <img src="pic/logoMain.png" alt="logo" height="200em"></a>
+<div id="baner">DĚTSKÉ TÁBORY TORK</div>
 
     <nav>  
         <ul>
-        <li><a href="index.php">Aktuálně</a></li>
-        <li><a href="kontakt.php">Kontakt</a></li>    
-        <li><a href="poskytujeme.php">Poskytujeme</a></li>
-        <li><a href="onas.php">O nás</a></li>
-        <li><a href="objednavame.php">Objednáváme</a></li>
-        <li><a href="ruzne.php">Různé</a></li>
+        <li><a href="index.php">Domů</a></li>
+        <li><a href="kontakt.php">Tábory</a></li>    
+        <li><a href="onas.php">Náš Team</a></li>
+        <li><a href="poskytujeme.php">Histrie tábora</a></li>
+        <li><a href="objednavame.php">Galerie</a></li>
+        <li><a href="ruzne.php">Kontakt</a></li>
     
     
         </ul>  
