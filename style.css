@@ -164,6 +164,22 @@ article
     border-color:#b4b4b4;
 }
 
+.container a
+{
+    padding: 15px;
+    margin: 20px;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 20px;
+    color: #1f1c2b;
+}
+
+.zvP:hover
+{
+    transition: all 0.5s ease-out;
+    transform: scale(1.2);
+}
+
 .picCenter
 {
     display: block; 

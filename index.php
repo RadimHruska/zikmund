@@ -23,6 +23,9 @@
              Morbi scelerisque luctus velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
               Fusce wisi. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Cum sociis natoque penatibus et magnis dis parturient montes,
                nascetur ridiculus mus. Duis bibendum</p>
+        <p class="zvP">
+               <a href="#" >Více</a>
+               </p>
     </div>
     
 </div>
@@ -36,6 +39,9 @@
               Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
                Fusce wisi. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Cum sociis natoque penatibus et 
                magnis dis parturient montes, nascetur ridiculus mus. Duis bibendum</p>
+               <p class="zvP">
+               <a href="#" >Více</a>
+               </p>
     </div>
     <img src="pic/pic2.png" width="500px" style="margin:20px; margin-top: 50px;" class="ZvPc">
 </div>
@@ -48,6 +54,9 @@
              Morbi scelerisque luctus velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
               Fusce wisi. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Cum sociis natoque penatibus et magnis dis parturient montes,
                nascetur ridiculus mus. Duis bibendum</p>
+               <p class="zvP">
+               <a href="#" >Více</a>
+               </p>
     </div>
     
 </div>
