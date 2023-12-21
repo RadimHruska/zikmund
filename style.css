@@ -1,0 +1,174 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+
+    }
+#obalovaci {margin: 0px auto; position: relative; width:800px;}
+article h1
+{
+    font-size: 2em;
+    text-align: center;
+
+}
+#container
+{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    max-width: 960px;
+    min-width: 200px;
+    margin: auto;
+
+}
+#container2
+{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    margin: 0;
+
+
+}
+#obsah
+{
+background-color: #f8f8f8;
+grid-column: 1/13;
+margin-left: 5px;
+margin-top: 10px;
+margin-bottom: 10px;
+text-align: justify;
+}
+nav
+{
+    grid-column: 1/13;
+  text-align: center;
+    background-color: #00a5cb;
+    height: 50px;
+    padding: 0px;
+    margin: 0px;    
+}
+nav ul
+{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+nav ul li
+{
+    display: inline-block;   
+     margin: 15px 0;
+}
+nav ul li a
+{
+
+    padding: 5px 25px;   
+    text-align: center;  
+    background-color: white;
+    font-size: 1.1em;
+    border-style: solid;
+    border-width: 0.1px;
+    border-color:#b4b4b4;
+}
+nav ul li a:hover
+{
+    background-color: #8dd2ec;
+}
+nav a
+{
+  text-decoration: none;
+  color: black;
+}
+article
+{
+    margin: 20px;
+    padding: 5px 50px;
+    background-color: white;   
+    border-style: solid;
+    border-width: 0.1px;
+    border-color:#b4b4b4;
+}
+
+.picCenter
+{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+iframe
+{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#ordinacniDoba
+{
+   text-align: center; 
+}
+.vyrazny
+{
+color: red;
+}
+#nadpis
+{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    max-width: 960px;
+    min-width: 960px;
+    margin: auto;
+    text-align: center;
+}
+.aktualita{
+    text-align: center;
+}
+.rozcestnik article{
+    border-color: #00a5cb;;
+
+}
+.rozcestnik a{
+    text-decoration: none;
+    color: black;
+
+}
+#baner
+{
+    background-image: url("pic/baner.png");
+    height: 160px;
+    grid-column: 1/13;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+} 
+footer
+{
+    text-align: center;
+    height: 60px;
+    padding: 10px 0;
+    background: #00a5cb;
+    color: black;
+}
+
+h4{
+    font-size: 1.1em;
+}
+h5{
+    font-size: 1.2em;
+}
+
+
+table td {
+    text-align: center;
+}
+
+@media screen and (max-width: 791px){
+nav {height: 100px;}   
+}
+@media screen and (max-width: 412px){
+    nav {height: 150px;}   
+    }
+    @media screen and (max-width: 286px){
+        nav {height: 200px;}   
+        }
