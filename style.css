@@ -80,13 +80,13 @@ transform: scale(1.5);
 {
 background-color:#1f1c2b;
 grid-column: 1/13;
-margin-top: 20px;
+margin-top: 50px;
 width: 100vw;
 }
 #obsahWhite
 {
     background-image: url("pic/bcgrndTer.png");
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-size: contain;
 background-color:white;
 grid-column: 1/13;

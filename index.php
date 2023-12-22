@@ -12,7 +12,7 @@
 <?php include("nav.php"); ?>
 
 
-    <img src="pic/taborak.png" alt="" class="ZvPc">
+    <img src="pic/taborak.png" alt="">
       
 <div id="obsah"> 
 <div class="container"> 
