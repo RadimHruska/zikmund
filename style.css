@@ -21,7 +21,7 @@ hr {
     margin-right: 40px;
     border-radius: 20px;
 
-  }
+}
 
   .obsahWhite hr
   {
@@ -42,6 +42,19 @@ hr {
     margin: auto;
     text-align: center;
 
+}
+.containerKontakt
+{
+    max-width: 960px;
+    min-width: 200px;
+    color: white;
+    margin: auto;
+    text-align: center;
+
+}
+.containerKontakt h1
+{
+    font-size: 4em;
 }
 .containerBlck
 {
@@ -134,6 +147,12 @@ margin-top: 50px;
 width: 100vw;
 }
 
+#obsahKontakt
+{
+background-color:#1f1c2b;
+grid-column: 1/13;
+width: 100vw;
+}
 #obsahTeam
 {
 

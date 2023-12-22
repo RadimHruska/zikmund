@@ -10,7 +10,7 @@
         <li><a href="team.php">Náš Team</a></li>
         <li><a href="historie.php">Historie tábora</a></li>
         <li><a href="#">Galerie</a></li>
-        <li><a href="#">Kontakt</a></li>
+        <li><a href="kontakt.php">Kontakt</a></li>
     
     
         </ul>  

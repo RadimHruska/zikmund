@@ -15,15 +15,21 @@
 
     
       
-<div id="obsahTeam"> 
-    <div class="containerCenter"> 
+<div id="obsahKontakt"> 
     
-    </div>
-</div>
-<div class="obsahWhite">
-  
-    <img src="pic/historie.png" alt="" class="picCenter">
 
+<div class="obsahKontakt">
+  
+    <div class="containerKontakt">
+        <h1>Kontakt</h1>
+        <img src="pic/phone.png" alt="" width="300px">
+        <h1>777 444 666</h1>
+        <img src="pic/email.png" alt="" width="300px">
+        <h1>email@email.com</h1>
+
+    </div>
+
+</div>
 </div>
     <?php include("footer.php"); ?>
 </body>
