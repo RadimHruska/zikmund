@@ -16,7 +16,6 @@
       
 <div id="obsahTeam"> 
 <div class="container"> 
-    <img src="pic/team.png" width="300px" style="margin:20px; margin-top: 50px;" class="ZvPc">
     <div>
         <h1 class="velkyText">Letos pro vás připravujeme</h1>
         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam id dolor. Maecenas lorem. In convallis.
