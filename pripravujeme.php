@@ -33,7 +33,6 @@
     <div class="containerBlck"> 
     
     <div>
-        <h1>Nadpis</h1>
         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam id dolor. Maecenas lorem. In convallis.
              Morbi scelerisque luctus velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
               Fusce wisi. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -54,7 +53,6 @@
     <div class="containerBlck"> 
     
     <div>
-        <h1>Nadpis</h1>
         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam id dolor. Maecenas lorem. In convallis.
              Morbi scelerisque luctus velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
               Fusce wisi. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -75,7 +73,6 @@
     <div class="containerBlck"> 
     
     <div>
-        <h1>Nadpis</h1>
         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam id dolor. Maecenas lorem. In convallis.
              Morbi scelerisque luctus velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
               Fusce wisi. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -90,4 +87,4 @@
 </div>
     <?php include("footer.php"); ?>
 </body>
-</html>
+</html>        <h1>Nadpis</h1>
