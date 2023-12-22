@@ -26,7 +26,7 @@ hr {
 .container
 {
     display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 2fr;
   grid-gap: 70px;
     max-width: 960px;
     min-width: 200px;
@@ -81,6 +81,15 @@ transform: scale(1.5);
 background-color:#1f1c2b;
 grid-column: 1/13;
 margin-top: 50px;
+width: 100vw;
+}
+
+#obsahTeam
+{
+
+background-color:#1f1c2b;
+grid-column: 1/13;
+
 width: 100vw;
 }
 #obsahWhite
@@ -238,13 +247,14 @@ color: red;
     transition: all 0.5s ease-out;
     transform: scale(1.5);
 }
-
+.velkyText
+{
+    font-size: 3.5em;
+}
 
 footer
 {
-    margin-top: 100px;
-    text-align: left;
-    height: 120px;
+    margin-top: 10px;
     padding: 10px 0;
     background: #1f1c2b;
     color: white;

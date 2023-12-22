@@ -7,8 +7,8 @@
         <ul>
         <li><a href="index.php">Domů</a></li>
         <li><a href="#">Tábory</a></li>    
-        <li><a href="#">Náš Team</a></li>
-        <li><a href="#">Histrie tábora</a></li>
+        <li><a href="team.php">Náš Team</a></li>
+        <li><a href="#">Historie tábora</a></li>
         <li><a href="#">Galerie</a></li>
         <li><a href="#">Kontakt</a></li>
     
